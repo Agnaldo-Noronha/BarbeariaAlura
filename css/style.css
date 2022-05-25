@@ -77,7 +77,7 @@ nav a:hover {
 
 footer {
     text-align: center;
-    background-image: url("../imagens/bg.jpg");
+    background-image: url("/bg.jpg");
     padding: 40px 0;
     height: 100%;
 }
