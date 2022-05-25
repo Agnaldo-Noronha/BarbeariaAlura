@@ -235,6 +235,10 @@ td, th{
     box-shadow: 10px 10px 5px #555555;
 }
 
+main{
+    padding-left: 10px;
+}
+
 /* responsividade para celular de 375x812*/
 
 @media screen and (max-width: 480px){
